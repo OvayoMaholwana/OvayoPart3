@@ -80,6 +80,3 @@ This is the final submission for Part 3, building upon the chatbot developed in 
 
 ---
 
-You can copy everything above and save it as **`README.md`** in the root folder of your project.
-
-Would you like a shorter version or any adjustments?
